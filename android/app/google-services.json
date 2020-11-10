@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733242875402",
+    "firebase_url": "https://seg-parcial-sw1.firebaseio.com",
+    "project_id": "seg-parcial-sw1",
+    "storage_bucket": "seg-parcial-sw1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733242875402:android:9acc5bb05bf3bdf577c9f3",
+        "android_client_info": {
+          "package_name": "com.example.seg_parcial_sw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733242875402-s4luirqtpl0h2edv618uk1rieahm8ou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcLFaDmjmChYGJoy-VS2AmG_rqFqy6Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733242875402-s4luirqtpl0h2edv618uk1rieahm8ou8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
